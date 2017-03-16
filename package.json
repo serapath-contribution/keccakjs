@@ -21,5 +21,7 @@
     "browserify-sha3": "^0.0.1",
     "sha3": "^1.1.0"
   },
-  "browser": "browser.js"
+  "browser": {
+    "sha3": "browser-sha3"
+  }
 }
